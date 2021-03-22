@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Stanky!
+                   Hello Mother Fuckers!
                 </div>
 
                 <div class="links">
